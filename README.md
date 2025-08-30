@@ -15,6 +15,43 @@
 
 ## Program
 
+```
+num = input("Enter a number: ")  
+flag = 0  
+
+if num.isnumeric():  
+    z = int(num)  
+
+    if z == 2:  
+        flag = 1  
+    elif z > 2:  
+        for i in range(2, z // 2 + 1):  # Loop should include z//2
+            if z % i == 0:  
+                flag = 0  
+                break  
+        else:  
+            flag = 1  
+
+    if flag == 1:  
+        print("Prime Number")  
+    else:  
+        print("Not a Prime Number")  
+
+else:  
+    print("Enter a Positive Number")
+
+```
 ## Output
 
+<img width="254" height="75" alt="Screenshot (423)" src="https://github.com/user-attachments/assets/6174939d-640a-4180-86bc-b02feb11220d" />
+
+
+<img width="251" height="78" alt="Screenshot (424)" src="https://github.com/user-attachments/assets/fa8c6098-060c-412b-81cd-098b1d470b28" />
+
+<img width="195" height="62" alt="Screenshot (425)" src="https://github.com/user-attachments/assets/c5cb9148-8886-4c9a-93d8-9da0378d3884" />
+
+
+
 ## Result
+
+Thus, the python program to check the number is prime or not and inspect for failures.
