@@ -47,6 +47,14 @@ else:
 <img width="254" height="75" alt="Screenshot (423)" src="https://github.com/user-attachments/assets/6174939d-640a-4180-86bc-b02feb11220d" />    
 
 
+<img width="251" height="78" alt="Screenshot (424)" src="https://github.com/user-attachments/assets/1072c65a-da9c-401c-80f0-da8f1d92fecd" />
+
+
+<img width="195" height="62" alt="Screenshot (425)" src="https://github.com/user-attachments/assets/14b5c2f1-adc5-4cbe-be10-b9c6c31fd157" />
+
+
+
+
 
 ## Result
 
